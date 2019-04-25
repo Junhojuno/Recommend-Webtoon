@@ -3,7 +3,6 @@
 
 ### Project 선정배경
 
-
 ### 대상 웹툰
 - Naver 
 - Daum
