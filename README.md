@@ -7,3 +7,7 @@
 - Naver 
 - Daum
 - Lezhin Comics
+
+### Word2Vec
+
+### 
